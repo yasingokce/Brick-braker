@@ -1,0 +1,5 @@
+oyun sağ sol yön tuşları ile oynanmaktadır.
+birinci bölümdeki tuğlalar bitince ikinci bölüm oluşacaktır.
+top aşşağı düşerse oyun biter.
+yeniden başlatmak için enter'a basın.
+projenin exe dosyası proje.exe olarak beni oku metin belgesi ile aynı hedefte bulunmaktadır.
